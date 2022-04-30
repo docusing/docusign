@@ -1,1 +1,1 @@
-<meta http-equiv="refresh" content="0; url= your link here" />
+<meta http-equiv="refresh" content="0; url= https://google.com" />
